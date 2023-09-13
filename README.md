@@ -1,4 +1,4 @@
-<h1 align="center"><b>利用chatgpt-3.5 api 绕开OpenAI的内容政策限制
+<h1 align="center"><b>利用chatgpt-3.5 api 绕开OpenAI的内容政策限制,100%生成成人内容的方法
 
 </b></h1>
 
